@@ -1,4 +1,4 @@
-📊 #Telecom X — Análisis de Evasión de Clientes (Churn)
+📊 Telecom X — Análisis de Evasión de Clientes (Churn)
 📌 Descripción del Proyecto
 
 Este proyecto tiene como objetivo analizar la evasión de clientes (Churn) en la empresa ficticia Telecom X.
